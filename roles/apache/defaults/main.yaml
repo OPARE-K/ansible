@@ -1,0 +1,6 @@
+index_file: index.php
+document_root: /var/www/html
+website_list:
+   - palanga.com
+   - devops.com
+   - example.com
